@@ -11,6 +11,11 @@
 |
 */
 
+Route::get('/allusers', function () {
+  $data['users'] = \App\User::all();
+  return view('allusers', $data);
+});
+
 Route::get('/', function () {
     return view('welcome');
 });
