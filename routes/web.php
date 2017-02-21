@@ -16,8 +16,17 @@ Route::get('/allusers', function () {
   return view('allusers', $data);
 });
 
+
+
+Route::get('/allusers/{id}', function ($id) {
+  $data['user'] = \App\User::find($id);
+  return view ('singleuser', $data);
+  dd($data);
+
+});
+
 Route::get('/', function () {
-    return view('welcome');
+    return view('singleuser');
 });
 
 Route::get('about', function () {
