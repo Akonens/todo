@@ -16,8 +16,10 @@ Route::get('/allusers', function () {
   return view('allusers', $data);
 });
 
-Route::get('/admin', function () {
-  $data['users'] = \App\User::where('name', 'janis')->get();
+Route::get('/admin/{name}', function ($name) {
+  $data['users'] = \App\User::where('name', $name)
+  ->orderBy('email', 'ASC')
+  ->get();
   return view('allusers', $data);
 });
 
