@@ -17,8 +17,8 @@ Route::get('/allusers', function () {
 });
 
 Route::get('/admin', function () {
-  $data['users'] = \App\User::all();
-  return view('admin', $data);
+  $data['users'] = \App\User::where('name', 'janis')->get();
+  return view('allusers', $data);
 });
 
 Route::get('/allusers/{id}', function ($id) {
