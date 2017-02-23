@@ -16,8 +16,8 @@ Route::get('/allusers', function () {
   return view('allusers', $data);
 });
 
-Route::get('/admin/{name}', function ($name) {
-  $data['users'] = \App\User::where('name', $name)
+Route::get('/admin/', function (Illuminate\Http\Request $request) {
+  $data['users'] = \App\User::where('name', $request->search)
   ->orderBy('email', 'ASC')
   ->get();
   return view('allusers', $data);
