@@ -66,9 +66,9 @@
           <div class="clearer"></div>
         </div>
       <div class="load_info">
-        <div class="portfolio_bottom">
-
-        </div>
+        <a class="portfolio_bottom">
+          <span>Apskatīt visas</span>
+        </a>
       </div>
     </div>
   </body>
