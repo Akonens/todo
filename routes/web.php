@@ -16,7 +16,10 @@ Route::get('/allusers', function () {
   return view('allusers', $data);
 });
 
-
+Route::get('/admin', function () {
+  $data['users'] = \App\User::all();
+  return view('admin', $data);
+});
 
 Route::get('/allusers/{id}', function ($id) {
   $data['user'] = \App\User::find($id);
@@ -24,6 +27,8 @@ Route::get('/allusers/{id}', function ($id) {
   dd($data);
 
 });
+
+
 
 Route::get('/', function () {
     return view('singleuser');
