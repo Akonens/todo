@@ -70,6 +70,49 @@
           <span>Apskatīt visas</span>
         </a>
       </div>
+      <div class="our_services">
+          <div class="servise_top">
+            <h2>Serveriss</h2>
+          </div>
+          <div class="servise_container">
+              <div class="servise_col">
+                <i class="icon1"></i>
+                <h3 class="m_1">
+                  asdanngasndansdasdnan
+                </h3>
+                <p class="m_2">
+                  asdanngasndansdasdnan
+                </p>
+              </div>
+              <div class="servise_col">
+                <i class="icon1"></i>
+                <h3 class="m_1">
+                  asdanngasndansdasdnan
+                </h3>
+                <p class="m_2">
+                  asdanngasndansdasdnan
+                </p>
+              </div>
+              <div class="servise_col">
+                <i class="icon1"></i>
+                <h3 class="m_1">
+                  asdanngasndansdasdnan
+                </h3>
+                <p class="m_2">
+                  asdanngasndansdasdnan
+                </p>
+              </div>
+              <div class="servise_col">
+                <i class="icon1"></i>
+                <h3 class="m_1">
+                  asdanngasndansdasdna
+                </h3>
+                <p class="m_2">
+                  asdanngasndansdasdna
+                </p>
+              </div>
+          </div>
+      </div>
     </div>
   </body>
 </html>

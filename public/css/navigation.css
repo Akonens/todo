@@ -1,6 +1,6 @@
 .navigation {
   background: #ffb500;
-  height: 85px;
+  height: 75px;
   margin-bottom: none;
   padding-left: 330px;
   border-bottom: 4px solid #333;
@@ -10,7 +10,7 @@
   text-decoration: none;
   color: #000;
   font-family: 'Sahitya', serif;
-  font-size: 18px;
+  font-size: 17px;
   padding: 10px 15px;
   display: block;
   position: relative;
