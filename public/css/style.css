@@ -55,40 +55,54 @@ body {
   float: left;
 }
 .servise_top h2 {
+  color: #373742;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 2em;
+	font-weight: bold;
+	margin-bottom: 2em;
+}
+.servise_bot {
+  float: left;
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.servise_top h2 {
   text-align: center;
 }
 .servise_container {
   height: 100%;
   width: 100%;
-
+  margin-left:
 }
-.service_col {
+.servise_col {
   float: left;
-  width: 30%;
-  width: 30%;
+  height: 300px;
+  width: 337px;
 }
 i.icon1{
-	width: 145px;
-	height: 145px;
-	background: url(../images/img-sprite.png)-173px -7px;
+	width: 100px;
+	height: 100px;
+	background: url(/img/img-sprite.png);
 	display: inline-block;
 }
 i.icon2{
-	width: 145px;
-	height: 145px;
-	background: url(../images/img-sprite.png)-337px -7px;
+  width: 100px;
+	height: 100px;
+	background: url(/img/img-sprite.png);
 	display: inline-block;
 }
 i.icon3{
-	width: 145px;
-	height: 145px;
-	background: url(../images/img-sprite.png)-172px -158px;
+  width: 100px;
+	height: 100px;
+	background: url(/img/img-sprite.png);
 	display: inline-block;
 }
 i.icon4{
-	width: 145px;
-	height: 145px;
-	background: url(../images/img-sprite.png)-336px -155px;
+  width: 100px;
+	height: 100px;
+	background: url(/img/img-sprite.png);
 	display: inline-block;
 }
 h3.m_1{

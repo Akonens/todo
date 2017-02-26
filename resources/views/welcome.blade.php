@@ -74,44 +74,31 @@
           <div class="servise_top">
             <h2>Serveriss</h2>
           </div>
-          <div class="servise_container">
-              <div class="servise_col">
-                <i class="icon1"></i>
-                <h3 class="m_1">
-                  asdanngasndansdasdnan
-                </h3>
-                <p class="m_2">
-                  asdanngasndansdasdnan
-                </p>
-              </div>
-              <div class="servise_col">
-                <i class="icon1"></i>
-                <h3 class="m_1">
-                  asdanngasndansdasdnan
-                </h3>
-                <p class="m_2">
-                  asdanngasndansdasdnan
-                </p>
-              </div>
-              <div class="servise_col">
-                <i class="icon1"></i>
-                <h3 class="m_1">
-                  asdanngasndansdasdnan
-                </h3>
-                <p class="m_2">
-                  asdanngasndansdasdnan
-                </p>
-              </div>
-              <div class="servise_col">
-                <i class="icon1"></i>
-                <h3 class="m_1">
-                  asdanngasndansdasdna
-                </h3>
-                <p class="m_2">
-                  asdanngasndansdasdna
-                </p>
+          <div class="servise_bot"
+              <div class="servise_container">
+                  <div class="servise_col">
+                    <i class="icon1"></i>
+                    <h3 class="m_1"><a href="#">Nosaukums1</a></h3>
+                    <p class="m_2">raksts1</p>
+                  </div>
+                  <div class="servise_col">
+                    <i class="icon1"></i>
+                    <h3 class="m_1"><a href="#">Nosaukums2</a></h3>
+                    <p class="m_2">Raksts2</p>
+                  </div>
+                  <div class="servise_col">
+                    <i class="icon1"></i>
+                    <h3 class="m_1"><a href="#">Nosaukums3</a></h3>
+                    <p class="m_2">Raksts3</p>
+                  </div>
+                  <div class="servise_col">
+                    <i class="icon1"></i>
+                    <h3 class="m_1"><a href="#">Nosaukums3</a></h3>
+                    <p class="m_2">Raksts4</p>
+                  </div>
               </div>
           </div>
+          <div class="clearer"></div>
       </div>
     </div>
   </body>
