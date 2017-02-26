@@ -78,21 +78,21 @@
               <div class="servise_container">
                   <div class="servise_col">
                     <i class="icon1"></i>
-                    <h3 class="m_1"><a href="#">Nosaukums1</a></h3>
-                    <p class="m_2">raksts1</p>
+                    <h3 class="m_1"><a href="#">Foto galerijas</a></h3>
+                    <p class="m_2">Šeit ir iespeja apskatīt mākslinieka darbus ,viss dažādākos eksemplāros.Sākot no hercogistes laikiem līdz 80.gadu mūziklam un beizot ar mūsdienām.</p>
                   </div>
                   <div class="servise_col">
-                    <i class="icon1"></i>
-                    <h3 class="m_1"><a href="#">Nosaukums2</a></h3>
-                    <p class="m_2">Raksts2</p>
+                    <i class="icon2"></i>
+                    <h3 class="m_1"><a href="#">Pieteikties šeit</a></h3>
+                    <p class="m_2">Izvēlies un piesakies ļoti liela klāsta fotosesijām.Aprēbinoši daudz kategorijas. Ja neapmierina mūsu fotosesiju klāsts tad vari ziņot par sev atbildstošo tematiku un mēs Jūs nofotogrāfēsim.</p>
                   </div>
                   <div class="servise_col">
-                    <i class="icon1"></i>
-                    <h3 class="m_1"><a href="#">Nosaukums3</a></h3>
-                    <p class="m_2">Raksts3</p>
+                    <i class="icon3"></i>
+                    <h3 class="m_1"><a href="#">Kontakti</a></h3>
+                    <p class="m_2">Iespēja ar mums sazināties saistībā par fotosesijām. Uzdodiet konkrētus jautājumus un mēs Jums atlbildēsim. Paldies :)</p>
                   </div>
                   <div class="servise_col">
-                    <i class="icon1"></i>
+                    <i class="icon4"></i>
                     <h3 class="m_1"><a href="#">Nosaukums3</a></h3>
                     <p class="m_2">Raksts4</p>
                   </div>

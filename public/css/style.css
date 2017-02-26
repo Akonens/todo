@@ -82,31 +82,31 @@ body {
   width: 337px;
 }
 i.icon1{
-	width: 100px;
-	height: 100px;
-	background: url(/img/img-sprite.png);
+	width: 96px;
+	height: 96px;
+  background-image: url("/img/comment-edit-icon.png");
 	display: inline-block;
 }
 i.icon2{
-  width: 100px;
-	height: 100px;
-	background: url(/img/img-sprite.png);
+  width: 96px;
+	height: 96px;
+	background-image: url("/img/folder-blue-pictures-icon.png");
 	display: inline-block;
 }
 i.icon3{
-  width: 100px;
-	height: 100px;
-	background: url(/img/img-sprite.png);
+  width: 96px;
+	height: 96px;
+	background-image: url("/img/Comment-add-icon.png");
 	display: inline-block;
 }
 i.icon4{
-  width: 100px;
-	height: 100px;
-	background: url(/img/img-sprite.png);
+  width: 96px;
+	height: 96px;
+	bbackground-image: url("/img/folder-blue-pictures-icon.png");
 	display: inline-block;
 }
 h3.m_1{
-	margin:1em 0 0.5em;
+	margin:2em 0 0.5em;
 }
 h3.m_1 a{
 	color:#1e1e24;
@@ -118,7 +118,7 @@ h3.m_1 a:hover{
 	color:#555;
 }
 p.m_2{
-	font-size:0.8125em;
+	font-size:0.9125em;
 	line-height:1.8em;
 	color: #1E1E24;
 }
