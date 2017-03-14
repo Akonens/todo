@@ -46,3 +46,5 @@ Route::get('/about/about', function () {
     return view('aboutabout');
 
 });
+
+Route::get('tasks', 'TasksController@index');
